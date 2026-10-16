@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-score,CV F1 (train)
+Logistic Regression,0.83,0.87,0.825,0.847,0.843
+Decision Tree,0.81,0.896,0.754,0.819,0.817
+Random Forest,0.827,0.852,0.842,0.847,0.836
